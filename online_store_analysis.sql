@@ -1,0 +1,1 @@
+table product_category_name_translation LIMIT 10;

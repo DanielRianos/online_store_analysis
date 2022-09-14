@@ -2,7 +2,7 @@
 
 Delivery performance study of the largest department store in Brazilian :brazil: marketplaces to find ways to optimize delivery times by analyzing around 100.000 orders.
 
-**Olist** connects small businesses from all over Brazil to channels without hassle and with a single contract. Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners. See more on our website: www.olist.com
+**Olist** connects small businesses from all over Brazil to channels without hassle and with a single contract. Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners. See more on the company's website: www.olist.com
 
 :newspaper_roll: The datasets and further information of this case can be found under the following link: 
 

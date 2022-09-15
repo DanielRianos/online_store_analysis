@@ -1,4 +1,5 @@
 LICENSE
+.DS_store
 online_store_analysis.sql
 data_sets/
 # Byte-compiled / optimized / DLL files

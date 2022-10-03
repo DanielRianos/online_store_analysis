@@ -10,5 +10,4 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download&se
 
 :tv: The vizualization of the analysis results are displayed here:  
 
-https://public.tableau.com/views/OnlineStoreAnalysis_16629757495670/Olistdeliverytimea[…]sis?:language=en-US&:display_count=n&:origin=viz_share_link
-
+https://public.tableau.com/views/OnlineStoreAnalysis_16629757495670/Olistdeliverytimeanalysis?:language=es-ES&:display_count=n&:origin=viz_share_link
